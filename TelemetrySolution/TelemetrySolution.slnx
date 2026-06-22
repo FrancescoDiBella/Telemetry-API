@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TelemetryApi.Tests/TelemetryApi.Tests.csproj" />
+  <Project Path="TelemetryApi/TelemetryApi.csproj" />
+</Solution>
